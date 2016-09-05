@@ -1,0 +1,19 @@
+{
+  "name": "node-image-base64",
+  "version": "0.0.1",
+  "description": "Nodejs module for convert image to base64 (blob, canvas)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-none/node-image-base64.git"
+  },
+  "author": "Dmitry Kalinin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null-none/node-image-base64/issues"
+  },
+  "homepage": "https://github.com/null-none/node-image-base64#readme"
+}
