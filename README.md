@@ -2,6 +2,9 @@
 
 Nodejs module for convert image to base64 (blob, canvas)
 
+[![npm version](https://badge.fury.io/js/node-image-base64.svg)](https://www.npmjs.com/package/node-image-base64)
+
+
 ## Install
 
 ```bash
